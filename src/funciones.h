@@ -9,6 +9,6 @@
 #define FUNCIONES_H_
 
 
-
+int s = 3;
 
 #endif /* FUNCIONES_H_ */
